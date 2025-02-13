@@ -68,7 +68,7 @@
 </div>
 
 <!-- Quebra de linha para evitar que os contatos fiquem desalinhados -->
-<br clear="left"/>
+<br clear="right"/>
 
 ## Contatos📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-l%C3%A9lis-programadora/)
