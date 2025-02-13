@@ -67,8 +67,6 @@
   />
 </div>
 
-<br><br>
-<br clear="left"/>
 <!-- Quebra de linha para evitar que os contatos fiquem desalinhados -->
 <br clear="left"/>
 
