@@ -72,16 +72,8 @@ Tenho 27 anos, sou de Brasília/DF atualmente estou  Estudante de Ciência da Co
 <!-- Contatos em um bloco separado -->
 <div style="margin-top: 20px;">
   ## Contatos 📫
-  <a href="https://www.linkedin.com/in/ana-clara-l%C3%A9lis-programadora/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/anaalelis/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:contato.anaclaralelis@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/analeliis">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-l%C3%A9lis-programadora/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anaalelis/) 
+  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contato.anaclaralelis@gmail.com)](mailto:contato.anaclaralelis@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/analeliis)
 </div>
