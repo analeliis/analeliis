@@ -2,7 +2,7 @@
 
 **`Desenvolvedora BackEnd`**
 
- Tenho 27 anos, sou de Brasília/DF atualmente estou  Estudante de Ciência da Computação, gosto muito de estudar sobre tecnologia, especialmente na área de backend. No momento, estou me dedicando à linguagem Java e buscando sempre aprimorar minhas habilidades. Gosto de trabalhar em equipe, porque acredito que aprender com as experiências e ideias das outras pessoas é uma das melhores formas de crescer tanto pessoal quanto profissionalmente.
+ Tenho 27 anos, sou de Brasília/DF atualmente estou  Estudando Ciência da Computação, gosto muito de estudar sobre tecnologia, especialmente na área de backend. No momento, estou me dedicando à linguagem Java e buscando sempre aprimorar minhas habilidades. Gosto de trabalhar em equipe, porque acredito que aprender com as experiências e ideias das outras pessoas é uma das melhores formas de crescer tanto pessoal quanto profissionalmente.
 
 
 ---
